@@ -1,0 +1,12 @@
+Script started on Tue 12 Sep 2023 10:11:48 AM PDT
+]0;le331@empress:~/cs311filess/CS311Progs/HWPrograms/forHW1/HW1P3_matrix[?1034h[le331@empress HW1P3_matrix]$ g++ mat.cpp
+]0;le331@empress:~/cs311filess/CS311Progs/HWPrograms/forHW1/HW1P3_matrix[le331@empress HW1P3_matrix]$ g++ mat.cp[5Plogovi mat.clscd HW1P3_matrilscd forHWlscd HWProgramlscd CS311Proglscd cs311filelscd[3P./a.out
+reading from lines.txt
+0:a b c |b e f |- - - |- - - |
+1:- - - |- - - |c h i |- - - |
+2:- - - |- - - |- - - |d k l |
+saving the table in table.txt
+]0;le331@empress:~/cs311filess/CS311Progs/HWPrograms/forHW1/HW1P3_matrix[le331@empress HW1P3_matrix]$ exit
+exit
+
+Script done on Tue 12 Sep 2023 10:12:22 AM PDT
